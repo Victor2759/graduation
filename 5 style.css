@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: greenyellow;
+    width: auto;
+    height: 50px;
+}
+header {
+padding-left: 20px;
+padding-top: 20px;
+margin: 20px;
+box-shadow: grey 15px 15px 5px;
+}
+h1 {
+    background-color: greenyellow;
+    height: auto;
+    width: 175px;
+    box-shadow: grey 15px 15px 5px;
+}
+main img {
+   border-bottom: solid darkblue;
+}
